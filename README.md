@@ -1,2 +1,2 @@
 # CustomRepo
-this is a Demo for Git and Github class
+i've started learning github.
